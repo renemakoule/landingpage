@@ -51,7 +51,7 @@ export default function Navbar() {
         </div>
         <div className="w-[100px]"></div>
       </div>
-      <div className="absolute bottom-0 left-0 right-0 h-[2px] whatsapp-status-bar"></div>
+      <div className="absolute bottom-0 left-0 right-0 h-[1px] whatsapp-status-bar"></div>
     </nav>
   );
 }
